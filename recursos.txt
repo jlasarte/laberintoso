@@ -1,0 +1,19 @@
+Clase Jmenu: 
+	Clase para generar el menú principal y la configuración.
+	URL: http://www.pygame.org/project-jmenu-1429-.html
+
+Módulo de inputBox:
+	Modulo para pedir ingreso de información desde teclado.
+	URL:  http://www.pygame.org/pcr/inputbox/index.php
+
+Imágenes de fondo:
+    	URL:  http://morguefile.com
+
+Sonidos del juego:
+	Efectos de sonido del juego.
+	URLS:
+	1.http://www.soundimage.eu/music-library/free-music-loops.html
+	2.http://www.freshloops.com/freeloops.php
+
+SPRITE OSO:
+ 	URL: http://forum.starmen.net/forum/Fan/Games/Capn-Muffin-s-EarthBound-Starter-Kit-RPG-Maker-XP
